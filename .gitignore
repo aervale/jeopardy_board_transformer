@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Generated data and model outputs. These can become much larger than the code.
+data/
+checkpoints/
+outputs/
+
